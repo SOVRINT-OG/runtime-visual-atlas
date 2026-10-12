@@ -9,7 +9,7 @@ publication:
   doi_status: "none recorded"
 evidence:
   class: "synthetic-visualization-generator"
-  validation_status: "not independently validated; automated checks are defined in GitHub Actions"
+  validation_status: "GitHub Actions on 2026-10-12 generated PNG and SVG charts from synthetic series; no empirical validation claimed"
   empirical_validation_claimed: false
 sources:
   source_register: "Repository-local sources and attribution are recorded in the README and source files; cite external sources beside sourced claims."
