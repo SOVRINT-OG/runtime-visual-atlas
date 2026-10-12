@@ -22,3 +22,8 @@ This repository mirrors the reproducible chart pack maintained at [katrinapietro
 The generator writes PNG and SVG files under charts/generated/. Its numeric series are illustrative and must not be described as empirical observations. Equations remain as recorded in the chart manifest; consult the Equation Registry before interpreting symbols.
 
 Research references must cite the repository and version. Citation alone does not grant reuse permission.
+
+
+## Research status and evidence
+
+See [RESEARCH_STATUS.yaml](./RESEARCH_STATUS.yaml) for the version, release, DOI, evidence class, validation state, source-register guidance, and rights metadata. Update that record when those facts change. Cite sources beside claims that depend on them; citation alone does not grant reuse permission.
